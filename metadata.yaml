@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/85
     wikipedia: http://en.wikipedia.org/wiki/Victor_Hugo
 description: Translation of Les misérables.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38163#De-Ellendigen--Deel-5-van-5-
 gutenberg_issued: '2011-11-28'
 gutenberg_type: Text
 identifiers:
